@@ -1,9 +1,0 @@
-name: OreGenerator
-author: LoL_Crunchy
-main: dev.lolcrunchy.oregenerator.OreGenerator
-version: 1.0.0
-api-version: 1.8.8
-commands:
-  generator:
-    aliases: oreg, oregeneator, ogenerator, og
-    usage: /<command>
